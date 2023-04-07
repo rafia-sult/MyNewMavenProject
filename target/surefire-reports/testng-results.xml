@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="5" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23" started-at="2023-04-07T13:42:18Z" finished-at="2023-04-07T13:42:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23" started-at="2023-04-07T13:42:18Z" finished-at="2023-04-07T13:42:18Z">
+      <class name="com.project.extra.RegisterTest">
+        <test-method status="PASS" signature="registerUser()[pri:0, instance:com.project.extra.RegisterTest@3c130745]" name="registerUser" duration-ms="5" started-at="2023-04-07T13:42:18Z" finished-at="2023-04-07T13:42:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+      </class> <!-- com.project.extra.RegisterTest -->
+      <class name="com.project.extra.LogoutTest">
+        <test-method status="PASS" signature="logoutUser()[pri:0, instance:com.project.extra.LogoutTest@470f1802]" name="logoutUser" duration-ms="0" started-at="2023-04-07T13:42:18Z" finished-at="2023-04-07T13:42:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutUser -->
+      </class> <!-- com.project.extra.LogoutTest -->
+      <class name="com.project.extra.SearchProductTest">
+        <test-method status="PASS" signature="searchProductUser()[pri:0, instance:com.project.extra.SearchProductTest@3e2e18f2]" name="searchProductUser" duration-ms="0" started-at="2023-04-07T13:42:18Z" finished-at="2023-04-07T13:42:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductUser -->
+      </class> <!-- com.project.extra.SearchProductTest -->
+      <class name="com.project.extra.LoginTest">
+        <test-method status="PASS" signature="loginUser()[pri:0, instance:com.project.extra.LoginTest@cd3fee8]" name="loginUser" duration-ms="1" started-at="2023-04-07T13:42:18Z" finished-at="2023-04-07T13:42:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUser -->
+      </class> <!-- com.project.extra.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
